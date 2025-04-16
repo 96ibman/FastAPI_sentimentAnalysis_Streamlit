@@ -64,6 +64,7 @@ streamlit run app.py
 
 Just enter any sentence and see if the model thinks it's **positive** or **negative**, along with a confidence score.
 
+> Note: Render might shut down the API so this might not work. Try locally instead in this case.
 ---
 
 ## 📦 Tech Stack
