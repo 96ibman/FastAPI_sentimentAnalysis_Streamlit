@@ -5,7 +5,7 @@ A minimal and interactive Streamlit frontend for **sentiment analysis**, powered
 - ⚡ **Frontend**: Streamlit  
 - 🚀 **Backend**: FastAPI (`distilbert-base-uncased-finetuned-sst-2-english`)  
 - 📡 **Deployed Backend**: Render  
-- 🌐 **Live Demo**: [Available on Hugging Face Spaces](#)
+- 🌐 **Live Demo**: [Available on Hugging Face Spaces](https://huggingface.co/spaces/Ibrahimnasser/FastAPI_SentimentAnalysis)
 
 ---
 
@@ -60,7 +60,7 @@ streamlit run app.py
 
 > ✨ This app is live and accessible via Hugging Face Spaces
 
-🔗 [**Launch in Hugging Face Spaces**](#)
+🔗 [**Launch in Hugging Face Spaces**](https://huggingface.co/spaces/Ibrahimnasser/FastAPI_SentimentAnalysis)
 
 Just enter any sentence and see if the model thinks it's **positive** or **negative**, along with a confidence score.
 
