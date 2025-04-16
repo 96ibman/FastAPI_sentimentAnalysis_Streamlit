@@ -64,7 +64,10 @@ streamlit run app.py
 
 Just enter any sentence and see if the model thinks it's **positive** or **negative**, along with a confidence score.
 
-> Note: Render might shut down the API so this might not work. Try locally instead in this case.
+> Note: Render might shut down the API so this might not work. Try locally instead in this case. For this purpose, replace `API_URL` to the local server after you run the API [repo](https://github.com/96ibman/FastAPI_sentiment_analysis)
+```python
+API_URL = "http://127.0.0.1:8000/analyze"
+```
 ---
 
 ## 📦 Tech Stack
